@@ -1,0 +1,14 @@
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\1071.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\1071.AssemblyInfoInputs.cache
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\1071.AssemblyInfo.cs
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\1071.csproj.CoreCompileInputs.cache
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\bin\Debug\net8.0\1071.exe
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\bin\Debug\net8.0\1071.deps.json
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\bin\Debug\net8.0\1071.runtimeconfig.json
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\bin\Debug\net8.0\1071.dll
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\bin\Debug\net8.0\1071.pdb
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\1071.dll
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\refint\1071.dll
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\1071.pdb
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\1071.genruntimeconfig.cache
+D:\Curso Programação\Programação Avançada Terciero Periodo\Exercicio_uri\1071\1071\obj\Debug\net8.0\ref\1071.dll
